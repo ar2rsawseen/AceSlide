@@ -1,0 +1,19 @@
+<project>
+ <properties scaleMode="0" iosDevice="0" xcodeVersion="0" packageName="com.yourdomain.yourapp" logicalHeight="480" logicalWidth="320" assetsOnly="0" orientation="0" architecture="0">
+  <imageScales/>
+ </properties>
+ <file file="Ace.Slide.lua"/>
+ <folder name="images">
+  <file file="right-up.png"/>
+  <file file="right-down.png"/>
+  <file file="left-up.png"/>
+  <file file="left-down.png"/>
+  <file file="crate.png"/>
+ </folder>
+ <folder name="classes">
+  <file file="gtween.lua"/>
+  <file file="easing.lua"/>
+  <file file="button.lua"/>
+ </folder>
+ <file file="main.lua"/>
+</project>
